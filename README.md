@@ -8,4 +8,4 @@ slides removed, concentrating on theory and concepts behind BDI agent systems.
 These slides were originally presented to a graduate level computer science
 class on Knowledge Representation and Reasoning as a guest lecture in May 2003.
 
-* [BDI Concepts and Agent Oriented Systems (Presentation PDF)]()
+* [BDI Concepts and Agent Oriented Systems (Presentation * PDF)](https://github.com/mikepsn/bdi-concepts/blob/master/bdi.pdf?raw=true)
